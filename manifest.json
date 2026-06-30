@@ -1,10 +1,10 @@
 {
   "id": "auto-linker",
   "name": "Auto Linker",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "minAppVersion": "1.0.0",
   "description": "Automatically wraps unlinked terms in [[brackets]] when they match a file in your vault. Supports aliases and simple plural matching.",
   "author": "Christian Leon",
-  "authorUrl": "",
+  "authorUrl": "christianleon.com",
   "isDesktopOnly": false
 }
