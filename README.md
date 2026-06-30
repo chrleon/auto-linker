@@ -73,8 +73,3 @@ No settings panel yet. The plugin works out of the box with sensible defaults:
 - If a short note name (e.g. *Moby*) and a longer one (e.g. *Moby Dick*) both exist, the upgrade logic assumes you always mean the longer name when you type the next matching word. Use a comma to opt out.
 - Very large vaults (thousands of notes) may have a slight delay on the first load while the index builds.
 
----
-
-## Source
-
-Source code and git history at `~/dev/obsidian/auto-linker/`.
